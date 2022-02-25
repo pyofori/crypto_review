@@ -17,4 +17,9 @@ The next thing is the organization of the project. Instead of dumping everything
 3. Run 'npm run build' in the terminal
 4. Run 'npm run local' in the terminal. Subsequently, you can simply run 'portfolio' in the terminal and pass arguments to it.
 
-For help on the avaiable commands, run 'portfolio --help' in the terminal.
+For help on the available commands, run 'portfolio --help' in the terminal.
+
+# How to use
+After installing, simply run 'portfolio' in the terminal
+The arguments that can be passed are -d, for the date, and -t, for the token. These arguments are option.
+The format for the date should be yyyy-mm-dd
